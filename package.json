@@ -1,0 +1,16 @@
+{
+  "name": "beta-karttakuva-maplibregl",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "maplibre-gl": "^3.6.2"
+  }
+}
